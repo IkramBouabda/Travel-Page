@@ -1,0 +1,45 @@
+#hero{
+    height: 700px;
+    background-image: url("/images/places/ocean6.jpg");
+    background-position: center;
+    background-size: cover;
+    
+}
+#hero-contant{
+    width: 900px;
+    background-color: rgba(191, 197, 241,0.8);
+    box-shadow: 2px 4px 8px rgb(68, 67, 67);
+    border-radius: 8px;
+    text-align: center;
+    padding: 50px 0;
+    margin: 0 auto;
+    position: relative;
+    top: 200px;
+}
+#hero-contant h1{
+    color: white;
+    text-transform: uppercase;
+    font-size: 50px;
+    font-family: "Raleway" , sans-serif;
+}
+#hero-contant p{
+    color: white;
+    text-transform: uppercase;
+    font-size: 24px;
+    font-weight: 300px;
+    margin-bottom: 32px;
+}
+#hero-contant a{
+    text-decoration: none;
+    background-color: rgb(224, 221, 48) ;
+    padding: 12px 24px;
+    color: rgb(14, 13, 83);
+    font-size: 24px;
+    font-weight: bold;
+    border-radius: 8px;
+    box-shadow: 2px 4px 8px rgb(68, 67, 67);
+}
+
+#hero-cntant a:hover{
+    background-color:   rgb(189, 171, 58);
+}
